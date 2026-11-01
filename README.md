@@ -57,6 +57,3 @@ This project analyzes pizza sales data to understand ordering patterns, product 
 1. Create the `pizza_sales` database and tables in MySQL
 2. Import the 4 CSV files from the `data` folder
 3. Open `project_sql.sql` and run the queries one by one
-├── project_sql.sql    # all 13 queries
-└── README.md
-```
